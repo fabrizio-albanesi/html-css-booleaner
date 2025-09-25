@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-img {
+
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat-x;
+    background-color: rgb(20, 145, 227);
+    background-size: 15%;
+    height: 80px;
+
+}
+
+#the {
+
+    color: white;
+    font-size: small;
+    padding-top: 20px;
+    padding-left: 90px;
+}
+
+#booleaner {
+
+    color: white;
+    font-size: 35px;
+    padding-left: 70px;
+    padding-top: 0px;
+
+}
+
+.blu {
+
+    color: darkcyan;
+    font-weight: bold;
+
+}
+
+h1 {
+    padding-left: 70px;
+    margin-bottom: 5px;
+}
+
+#descrizione {
+
+    padding-left: 70px;
+}
+
+#data {
+
+    padding-left: 70px;
+}
+
+img {
+
+    padding-left: 70px;
+
+}
+
+figcaption {
+    padding-left: 70px;
+
+}
+
+#lorem {
+
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+mark {
+    background-color: yellow;
+}
+
+ul {
+
+    padding-left: 85px;
+
+}
+
+table {
+
+    padding-left: 70px;
+    width: 1000px;
+}
+
+#thead {
+
+    color: white;
+    background-color: rgb(71, 153, 208);
+}
+
+#color {
+
+    background-color: rgb(0, 225, 255);
+
+}
+
+#color-light {
+
+    background-color: rgb(207, 239, 244);
+
+}
+
+#lorem-footer {
+
+    padding-left: 70px;
+
+}
+
+mark {
+    background-color: yellow;
+}
+
+#footer {
+
+    padding-bottom: 10px;
+    padding-left: 70px;
+
+}
+
+#center {
+
+    color: white;
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 10PX;
+}
